@@ -1,6 +1,6 @@
 # Determining_the_price_of_houses_in_Tashkent
-Machine Learning<br>
-Ushbu amaliyotda mening vazifam berilgan ma`lumotlar asosida Toshkent shahridagi uylarning narxini aniqlash nodelini ishlab chiqish edi.
+<strong>Machine Learning</strong><br>
+Ushbu amaliyotda mening vazifam berilgan ma`lumotlar asosida Toshkent shahridagi uylarning narxini aniqlash modelini ishlab chiqish edi.
 <br><br>
 Faylni yuklab olib, Anaconda: Jupyter ,Google Colab, Visual Studio : Jupyter kabi code editor va online servislarda ishlatib ko'rish mumkin.<br>
 Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" toshkent_sh__uy_narxlari.ipynb "] fayliga kiring va " Open in colab " tugmasini bosing <br>
@@ -27,7 +27,7 @@ Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" toshkent_sh__uy_n
 <p>Modelni <strong>baholash</strong> uchun train va test set larga ajratishdan hamda Cross-Validation usulidan foydalanildi</p>
 <br>
 <strong>Sinab Ko'rildi :</strong><br>
-- Google Colab
+- Google Colab<br>
 - 2024
 
 
